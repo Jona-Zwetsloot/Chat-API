@@ -1,6 +1,6 @@
 # Chat API
 
-<a href="https://jonazwetsloot.nl/chat/timeline">Chat </a> is a social media platform where you can post messages, share images, send DMs and much more! This repository contains the documentation for the free <a href="https://jonazwetsloot.nl/chat/api/welcome">Chat API</a>.
+<a href="https://jonazwetsloot.nl/chat/timeline">Chat </a> is a social media platform where you can post messages, share images, send DMs and much more! This repository contains the documentation for the free <a href="https://jonazwetsloot.nl/chat/api/welcome">Chat API</a>. All API request paths are relative to the `chat/` directory on my site. So for example, `/api/v1/timeline` means `https://jonazwetsloot.nl/chat/api/v1/timeline`
 
 <br>
 

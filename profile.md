@@ -68,3 +68,21 @@ Change the description, profile image and banner of a profile. In some cases, se
     "status": "success"
 }
 ```
+
+<br>
+
+# 🔴 DELETE `/api/v1/profile`
+Delete the profile associated with the access token. This will sends a verification email which asks the user to confirm their account deletion
+
+#### Parameters
+| Required | Name | Type | Value |
+|----------|------|------|-------|
+| ✅ | Authorization | Header | Bearer [access_token] |
+
+
+#### Returns
+```json
+{
+    "status": "success"
+}
+```
