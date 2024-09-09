@@ -11,6 +11,7 @@
     - [Sending the user to the authorization URL](authorize.md#-get-apiv1authorize)
     - [Fetching the user access token](token.md#-get-apiv1token)
     - [Create new account](profile.md#-post-apiv1profile)
+    - [List of uploaded images](image-list.md#-get-apiv1image-list)
   - Scope public
     - [Retrieving a client access token](token.md#-get-apiv1token)
     - [Refreshing an access token](token.md#-get-apiv1token)
@@ -31,6 +32,7 @@
     - [Follow user](contact.md#-post-apiv1contact)
     - [Direct messages](direct-message.md#-get-apiv1direct-message)
     - [Send DM](direct-message.md#-post-apiv1direct-message)
+    - [Storage usage](storage.md#-get-apiv1storage)
   - Scope profile
     - [Adjust profile](profile.md#-put-apiv1profile)
   - Scope delete
